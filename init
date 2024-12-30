@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+mkdir -p "d$1"
+cp template.hs "d$1"/main.hs
+touch "d$1"/{ex,in}.txt
