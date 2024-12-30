@@ -27,7 +27,7 @@
             hlint
             haskellPackages.hoogle
             haskellPackages.fast-tags
-            ghc
+            haskell.compiler.ghc912
             ormolu
             ghciwatch
             nodePackages.prettier
