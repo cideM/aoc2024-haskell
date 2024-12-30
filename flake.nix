@@ -30,6 +30,7 @@
             ghc
             ormolu
             ghciwatch
+            nodePackages.prettier
           ];
         };
       }
