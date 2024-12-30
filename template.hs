@@ -1,6 +1,12 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# OPTIONS_GHC -Wall -Wextra -Wno-unused-top-binds #-}
 
+-- Inspiration for a better template
+-- https://gist.github.com/mihassan/3cf472fee6383bd4a3d62274a28e095e
+
+-- Text, ByteString etc. conversions
+-- https://gist.github.com/dino-/28b09c465c756c44b2c91d777408e166
+
 -- Included libraries:
 -- https://downloads.haskell.org/ghc/latest/docs/users_guide/9.12.1-notes.html#included-libraries
 
